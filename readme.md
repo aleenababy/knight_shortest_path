@@ -26,7 +26,7 @@ This Python script solves the problem of finding the shortest path for a knight 
             Replace A1 and H8 with your desired starting and ending positions in algebraic chess notation.
 ### Output
 After running the script, the following outputs will be generated:
-    - Console Output: Displays all minimum-length sequences of moves from the starting to the ending position.
-    - Graph Visualization: Saves a Graphviz/DOT file (shortest_paths_graph.dot) representing the shortest paths graph.
-    - Chessboard Visualization: Saves a PNG image (shortest_path_knight.png) showing the chessboard with the shortest path plotted.
+        -   Console Output: Displays all minimum-length sequences of moves from the starting to the ending position.
+        -    Graph Visualization: Saves a Graphviz/DOT file (shortest_paths_graph.dot) representing the shortest paths graph.
+        -   Chessboard Visualization: Saves a PNG image (shortest_path_knight.png) showing the chessboard with the shortest path plotted.
     ![chessboard](https://github.com/aleenababy/knight_shortest_path/blob/main/shortest_path_knight.png)
